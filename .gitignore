@@ -1,0 +1,6 @@
+out/
+anneal
+wordcheck
+__pycache__/
+*.pyc
+.DS_Store
